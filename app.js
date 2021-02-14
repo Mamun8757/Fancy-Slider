@@ -141,3 +141,7 @@ const spinnerToggle = () => {
   const spinner = document.getElementById('spinner');
   spinner.classList.toggle("d-none");
 }
+
+// Ending ..............
+
+// New Feature Is = spinner Toggle, Thank You!
